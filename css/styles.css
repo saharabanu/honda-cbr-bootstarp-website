@@ -1,5 +1,6 @@
 .full-page{
     background: #E5E5E5;
+    
 }
 /* header styles-- */
 .header-info{
@@ -9,6 +10,8 @@
 }
 .purchase-button{
     background: #E76F51;
+   
+
    
    
 }
@@ -36,3 +39,40 @@
 .honda img:hover{
     filter:grayscale(100%);
 }
+/* happy clients styles-- */
+.happy-client{
+    margin-top: 160px;
+}
+.client-image{
+    width:120px;
+    height:90px ;
+
+    
+}
+
+.container h1 span{
+    color: #E76F51;
+}
+.client-detail{
+    padding-left:30px
+}
+.fa-star.filled{
+    color: #E77C40;
+}
+.fa-star{
+    color:#E77C40;
+}
+/* frequent asked question style--- */
+
+.question-container{
+    width: 1000px;
+    padding-top:112px ;
+}
+.faq-image{
+    width: 400px;
+    padding:50px ;
+   
+}
+/* media query--- */
+
+  
