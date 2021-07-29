@@ -1,14 +1,15 @@
 .full-page{
     background: #E5E5E5;
 }
+/* header styles-- */
 .header-info{
-    margin-top: 50px;
+    margin-top: 40px;
     margin-left :40px; ;
     
 }
 .purchase-button{
     background: #E76F51;
-    padding: 10px;
+   
    
 }
 .header{
@@ -16,4 +17,22 @@
    
   
 
+}
+/* main styles---- */
+.feature-p{
+    color: #E76F51;
+}
+.image-group{
+    margin-top: 120px;
+}
+.main-part{
+    background: #FFFFFF;
+}
+
+.honda img{
+    background-color:brown;
+    cursor: pointer;
+}
+.honda img:hover{
+    filter:grayscale(100%);
 }
