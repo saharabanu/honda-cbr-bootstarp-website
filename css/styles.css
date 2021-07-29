@@ -65,14 +65,13 @@
 /* frequent asked question style--- */
 
 .question-container{
-    width: 1000px;
+    
     padding-top:112px ;
 }
-.faq-image{
-    width: 400px;
-    padding:50px ;
+
    
-}
+   
+
 /* media query--- */
 
   
